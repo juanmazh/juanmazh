@@ -1,65 +1,31 @@
-<h2 align="center">Hi 👋! My name is Juan Manuel and I'm a Web Developer from Spain, Jaén</h2>
+<h1 align="center">Hola, soy Juanma 👋</h1>
+<p align="center"><b>Desarrollador Full Stack e IA</b> · Jaén, España</p>
 
-###
+Desarrollo software de gestión empresarial en **Cinde Soluciones**: ERP con PHP y MySQL, facturación electrónica con **Veri\*factu** y **SII**, y aplicaciones web y móviles para empresas. También integro **IA en productos reales**, como chatbots con base de conocimiento y una plataforma SaaS multi-tenant de herramientas de IA.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanmazh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+Actualmente me estoy especializando en **Inteligencia Artificial y Big Data**.
 
-###
+> El código de los proyectos de empresa es privado. Aquí encontrarás mis proyectos personales y académicos.
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/147426186?v=4"  />
+## Stack
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,java,js,ts,vue,react,mysql,python,git&perline=13" alt="PHP, Laravel, Node.js, NestJS, Express, Java, JavaScript, TypeScript, Vue, React, MySQL, Python, Git" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+## Proyectos destacados
 
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| [**AmigosJaén**](https://github.com/juanmazh/amigosjaen) | Red social para organizar actividades en Jaén: eventos con mapa, foros, chat en tiempo real y panel de administración. Proyecto final de DAW. | React, Node.js, Express, Sequelize, MySQL, Socket.io, JWT |
+| [**Todo App**](https://github.com/juanmazh/todo-app) | Gestor de tareas con autenticación, filtros, estadísticas y datos aislados por usuario. | React 19, TypeScript, Supabase (PostgreSQL, RLS) |
+| [**Portfolio**](https://github.com/juanmazh/Portfolio) | Mi web personal, desplegada automáticamente en GitHub Pages. | Astro, TypeScript, Tailwind CSS, GitHub Actions |
+| [**ApatitaTours**](https://github.com/juanmazh/ApatitaTours) | Web para consultar y contratar tours turísticos, con API REST propia. | Vue 3, Vite, PHP |
 
+Más proyectos en mi [portfolio](https://juanmazh.github.io/Portfolio/).
 
-</div>
+## Contacto
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/lil_capitolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="juanmazh.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-manuel-zafra-hern%C3%A1ndez-5b2bb7339/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+[![Portfolio](https://img.shields.io/badge/Portfolio-juanmazh.github.io-222?style=for-the-badge&logo=astro&logoColor=white)](https://juanmazh.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-zafra-hern%C3%A1ndez-5b2bb7339/)
+[![Email](https://img.shields.io/badge/juanmazh.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmazh.dev@gmail.com)
