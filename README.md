@@ -29,3 +29,7 @@ Más proyectos en mi [portfolio](https://juanmazh.github.io/Portfolio/).
 [![Portfolio](https://img.shields.io/badge/Portfolio-juanmazh.github.io-222?style=for-the-badge&logo=astro&logoColor=white)](https://juanmazh.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-zafra-hern%C3%A1ndez-5b2bb7339/)
 [![Email](https://img.shields.io/badge/juanmazh.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmazh.dev@gmail.com)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juanmazh/juanmazh/output/snake.svg" alt="Serpiente comiéndose mi gráfico de contribuciones" />
+</p>
